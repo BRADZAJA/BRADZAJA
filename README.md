@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BRADZAJA
-- 👀 I’m interested in Coding, Apple Hacking.
+- 👀 I’m interested in Coding, iOS Hacking.
 - 🌱 I’m currently learning C, C++
 - 📫 How to reach me : BRADZAJA#7773 on Discord
